@@ -13,7 +13,8 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ![Results2](resources/dec_temps.png)
 
-# Summary: Based on the analysis for temperatures specifically June and December I would say that surf shop sounds like a good idea.  The temperatures did not seem to vary enough to be a concern.  I would like to see how precipitation is for both these months as well. Below is precipitation for June and December. It does look like the rain in December could be an issue.
+# Summary: 
+Based on the analysis for temperatures specifically June and December I would say that surf shop sounds like a good idea.  The temperatures did not seem to vary enough to be a concern.  I would like to see how precipitation is for both these months as well. Below is precipitation for June and December. It does look like the rain in December could be an issue.
 
 ## Below are summary statistics for the precipitation for the month of June
 ![Results3](resources/june_precipitation.png)
